@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{FD953D40-15D9-4C0C-AB0D-372D6F362EAE}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="BindSourceSample.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\NormalWinLikeMdi\NormalWinLikeMdi.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="BindSourceSample">
+        <MSBuild Projects="BindSourceSample.dproj"/>
+    </Target>
+    <Target Name="BindSourceSample:Clean">
+        <MSBuild Projects="BindSourceSample.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="BindSourceSample:Make">
+        <MSBuild Projects="BindSourceSample.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="NormalWinLikeMdi">
+        <MSBuild Projects="..\NormalWinLikeMdi\NormalWinLikeMdi.dproj"/>
+    </Target>
+    <Target Name="NormalWinLikeMdi:Clean">
+        <MSBuild Projects="..\NormalWinLikeMdi\NormalWinLikeMdi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="NormalWinLikeMdi:Make">
+        <MSBuild Projects="..\NormalWinLikeMdi\NormalWinLikeMdi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="BindSourceSample;NormalWinLikeMdi"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="BindSourceSample:Clean;NormalWinLikeMdi:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="BindSourceSample:Make;NormalWinLikeMdi:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

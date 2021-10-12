@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.036,C:\Users\Administrator\_Programs\XE10.4 Sydney\Projects\Unit1.dfm=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.698,C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Unit1.dfm=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.698,C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Unit1.pas=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\MainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Unit1.pas=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\uEntities.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Project1.dproj=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\BindSourceSample.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,=C:\Users\Administrator\_Programs\XE10.3 Rio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,=C:\Users\Administrator\_Programs\XE10.3 Rio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\Administrator\_Programs\XE10.4 Sydney\Projects\Project1.dproj=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.780,=C:\Users\Administrator\_Programs\XE10.4 Sydney\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,C:\Users\Administrator\_Programs\XE10.4 Sydney\Projects\Unit1.pas=C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

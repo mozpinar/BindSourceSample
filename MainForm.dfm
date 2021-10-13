@@ -83,8 +83,8 @@ object Form1: TForm1
     Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goColSizing, goEditing, goRowSelect, goFixedRowDefAlign]
     TabOrder = 0
     ColWidths = (
-      64
-      64
+      111
+      98
       64)
     ColAligments = (
       0

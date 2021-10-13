@@ -27,7 +27,6 @@ type
     lblAge: TLabel;
     btnOk: TButton;
     btnCancel: TButton;
-    cbxDBActive: TCheckBox;
     PrototypeBindSource1: TPrototypeBindSource;
     BindingsList1: TBindingsList;
     LinkGridToDataSourcePrototypeBindSource1: TLinkGridToDataSource;

@@ -1,7 +1,4 @@
-﻿[cbxDBActive]
-Coordinates=107,78,95,51
-
-[Panel1]
+﻿[Panel1]
 Coordinates=108,146,47,51
 
 [edLastName]
@@ -41,7 +38,7 @@ Coordinates=110,260,50,33
 Coordinates=10,80,75,51
 
 []
-Coordinates=620,10,116,51
+Coordinates=107,78,95,51
 
 [PrototypeBindSource1]
 Coordinates=338,1,125,105

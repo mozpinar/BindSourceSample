@@ -95,29 +95,29 @@ object Form1: TForm1
     Left = 32
     Top = 56
     Width = 361
-    Height = 217
+    Height = 185
     BevelInner = bvLowered
     TabOrder = 1
     object lblFirstName: TLabel
-      Left = 72
+      Left = 63
       Top = 24
-      Width = 15
+      Width = 51
       Height = 13
-      Caption = 'Ad'#305
+      Caption = 'First Name'
     end
     object lblLastName: TLabel
-      Left = 72
+      Left = 63
       Top = 56
-      Width = 32
+      Width = 49
       Height = 13
-      Caption = 'Soyad'#305
+      Caption = 'Last name'
     end
     object lblAge: TLabel
-      Left = 72
+      Left = 63
       Top = 88
       Width = 19
       Height = 13
-      Caption = 'Ya'#351#305
+      Caption = 'Age'
     end
     object edFirstName: TEdit
       Left = 120
@@ -162,14 +162,6 @@ object Form1: TForm1
       OnClick = btnCancelClick
     end
   end
-  object cbxDBActive: TCheckBox
-    Left = 72
-    Top = 16
-    Width = 97
-    Height = 17
-    Caption = 'Active'
-    TabOrder = 2
-  end
   object PrototypeBindSource1: TPrototypeBindSource
     AutoActivate = True
     AutoPost = False
@@ -192,8 +184,8 @@ object Form1: TForm1
       end>
     ScopeMappings = <>
     OnCreateAdapter = PrototypeBindSource1CreateAdapter
-    Left = 624
-    Top = 32
+    Left = 400
+    Top = 304
   end
   object BindingsList1: TBindingsList
     Methods = <>

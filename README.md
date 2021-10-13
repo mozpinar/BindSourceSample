@@ -8,3 +8,4 @@ This sample program shows how to use BindSourceAdapter in LiveBindings and Strin
 *Step-5 : Place all components as this picture.
 
 ![Screen view](https://raw.githubusercontent.com/mozpinar/RecordPointerUsage/master/MainFormPic.png)
+

@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions/>
+  <Transactions>
+    <Transaction>2021.10.13 00:08:18.322,C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\ProjectGroup1.groupproj=C:\Users\Administrator\_Programs\XE10.4 Sydney\Projects\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
   <Default.Personality>
-    <Projects ActiveProject="C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\NormalWinLikeMdi\NormalWinLikeMdi.dproj"/>
+    <Projects ActiveProject="C:\Users\Administrator\_Programs\XE10.4 Sydney\Test\RecordPointerUsage\BindSourceSample.dproj"/>
   </Default.Personality>
 </BorlandProject>

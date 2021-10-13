@@ -1,5 +1,5 @@
 ### RecordPointerUsage
-This sample program shows how to use BindSourceAdapter in LiveBindings and StringGrid.
+#This sample program shows how to use BindSourceAdapter in LiveBindings and StringGrid.
 
 *Step-1 : Create an empty VCL project and save all to disk.
 *Step-2 : Drop a StringGrid on the form from component palette.

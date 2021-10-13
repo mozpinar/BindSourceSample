@@ -1,4 +1,4 @@
-#RecordPointerUsage
+RecordPointerUsage
 
 This sample program shows how to use BindSourceAdapter in LiveBindings and StringGrid.
 

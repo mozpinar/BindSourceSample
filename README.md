@@ -36,9 +36,7 @@ Our data structure is;
 ![LiveBinding view](https://raw.githubusercontent.com/mozpinar/BindSourceSample/master/MainFormLiveBinding.png "LiveBinding")  
  
  - Step-12 : Build and fill OnCreateAdapter event of PrototypeBindSource1. It has to be so;
-
-
-
+ - 
 
     procedure TForm1.PrototypeBindSource1CreateAdapter(Sender: TObject;
       var ABindSourceAdapter: TBindSourceAdapter);
@@ -66,4 +64,4 @@ Our data structure is;
       
     end;
     
-
+  - Next steps : You will found all other needed codes in MainForm source. For example buttons' onClick events.

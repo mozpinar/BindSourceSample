@@ -2,6 +2,10 @@ RecordPointerUsage
 
 This sample program shows how to use BindSourceAdapter in LiveBindings and StringGrid.
 
+You may ask yourself a question that why do I have to use a strange and hard method like this. If you do, you have to use this method soon. Because the world is changing. Classical approachments decrease and leave its place to new perspectives that need less time to modify and develop. 
+
+But this approach is necessery for some other situations; if you work on REST/SOAP client software for example. When you take REST data from server, it is automatically serialize to an object list as just following structure. In next a few days, I have planned to prepare a sample uses REST.
+
 Our data structure is;
 
     TKisi = class

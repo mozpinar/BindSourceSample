@@ -1,48 +1,48 @@
 ﻿[Panel1]
-Coordinates=108,146,47,51
+Coordinates=108,146,55,58
 
 [edLastName]
-Coordinates=740,40,75,51
+Coordinates=670,50,87,58
 
 [btnOk]
-Coordinates=100,10,44,51
+Coordinates=10,10,49,58
 
 [btnEdit]
-Coordinates=40,260,49,33
+Coordinates=40,260,55,36
 
 [lblFirstName]
-Coordinates=240,240,76,51
+Coordinates=240,240,87,58
 
 [lblAge]
-Coordinates=10,200,45,51
+Coordinates=10,200,50,58
 
 [edFirstName]
-Coordinates=640,10,76,51
+Coordinates=570,0,88,58
 
 [StringGrid1]
-Coordinates=10,10,70,51
+Coordinates=190,0,80,58
 
 [btnDelete]
-Coordinates=170,260,61,33
+Coordinates=170,260,70,36
 
 [edAge]
-Coordinates=640,70,45,51
+Coordinates=580,80,51,58
 
 [btnCancel]
-Coordinates=173,146,64,51
+Coordinates=173,146,72,58
 
 [btnAdd]
-Coordinates=110,260,50,33
+Coordinates=110,260,55,36
 
 [lblLastName]
-Coordinates=10,80,75,51
+Coordinates=10,80,86,58
 
 []
 Coordinates=107,78,95,51
 
 [PrototypeBindSource1]
-Coordinates=338,1,125,105
+Coordinates=338,1,143,124
 
 [BindingsList1]
-Coordinates=272,148,82,33
+Coordinates=272,148,91,36
 

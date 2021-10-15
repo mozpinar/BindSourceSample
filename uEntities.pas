@@ -12,7 +12,6 @@ type
     property Isim: string read fIsim write fIsim;
     property Soyisim: string read fSoyisim write fSoyisim;
     property Yas: Integer read fYas write fYas;
-
     constructor Create(const aIsim, aSoyisim : String; aYas : Integer);
   end;
 implementation
